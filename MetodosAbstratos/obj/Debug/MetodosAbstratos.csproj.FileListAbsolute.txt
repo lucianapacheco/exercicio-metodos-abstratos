@@ -1,0 +1,7 @@
+C:\Users\lucia\source\repos\MetodosAbstratos\MetodosAbstratos\obj\Debug\MetodosAbstratos.csprojAssemblyReference.cache
+C:\Users\lucia\source\repos\MetodosAbstratos\MetodosAbstratos\obj\Debug\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\MetodosAbstratos\MetodosAbstratos\bin\Debug\MetodosAbstratos.exe.config
+C:\Users\lucia\source\repos\MetodosAbstratos\MetodosAbstratos\bin\Debug\MetodosAbstratos.exe
+C:\Users\lucia\source\repos\MetodosAbstratos\MetodosAbstratos\bin\Debug\MetodosAbstratos.pdb
+C:\Users\lucia\source\repos\MetodosAbstratos\MetodosAbstratos\obj\Debug\MetodosAbstratos.exe
+C:\Users\lucia\source\repos\MetodosAbstratos\MetodosAbstratos\obj\Debug\MetodosAbstratos.pdb
